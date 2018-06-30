@@ -5,6 +5,8 @@
 複数テキストファイルの一括置換処理を行います。
 正規表現，プレビュー機能などが利用できます。
 
+![screenshot](https://github.com/wgag/hoge-text-replace/raw/master/doc/img/main-window.png)
+
 ## 動作条件
 
 * Windows 2000, XP, Vista, 7, 10 など
